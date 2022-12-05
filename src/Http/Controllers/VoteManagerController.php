@@ -6,7 +6,7 @@ use Exception;
 use Inani\Larapoll\Poll;
 use Inani\Larapoll\Guest;
 use Illuminate\Http\Request;
-use App\Http\Controllers\Controller;
+use Wywrota\Http\Controllers\Controller;
 
 class VoteManagerController extends Controller
 {
