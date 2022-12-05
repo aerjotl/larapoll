@@ -2,7 +2,7 @@
 
 namespace Inani\Larapoll\Http\Controllers;
 
-use App\Http\Controllers\Controller;
+use Wywrota\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Inani\Larapoll\Helpers\PollHandler;
 use Inani\Larapoll\Http\Request\PollCreationRequest;
